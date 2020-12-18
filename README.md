@@ -1,7 +1,7 @@
 # UAS-TEKPRO-SEM-1
 Tugas Akhir Semester Teknik Pemograman 2020
 
-Dosen Pembimbing = Fredian Simanjuntak
+Dosen Pembimbing = Fredian Simanjuntak, S.Kom.
 
 Judul Proyek : Pharmedic
 
